@@ -66,7 +66,7 @@ git clone https://github.com/compnerd/uswift.git
 git clone https://github.com/MaxDesiatov/Hleeb.git
 ```
 
-3. Build with CMake and Ninja, we're using `LLVM_BIN` points to LLVM installed on M1, you may need to adjust this path
+3. Build with CMake and Ninja, we're using `LLVM_BIN` pointing to LLVM installed on M1, you may need to adjust this path
    if you're building on Intel. You also need to adjust `SWIFT_BIN` to the path of your freshly built Swift toolchain
    with bare metal support:
 
