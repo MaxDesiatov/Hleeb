@@ -26,7 +26,7 @@ directory of a clone of this repository.
 
 0. Make sure you have at least 20-50 GB of free storage for the toolchain build. 8 GB is the minimal amount of RAM,
 16 GB is recommended. This was tested on macOS Big Sur with Xcode 13.2, earlier versions may work but weren't tested.
-Building on Linux may work, but you may need to adjust these steps accordingly.
+Building on Linux may work, but you'll need to adjust these steps accordingly.
 
 1. Create a `swift-source` directory for the toolchain build in your working directory and navigate to it:
 
