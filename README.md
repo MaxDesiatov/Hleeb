@@ -24,8 +24,8 @@ directory of a clone of this repository.
 
 ### Building a Swift toolchain for bare metal development
 
-0. Make sure you have at least 20-50 GB of free storage for the toolchain build. At least 8 GB of RAM is recommended
-   for the toolchain build.
+0. Make sure you have at least 20-50 GB of free storage for the toolchain build. 8 GB is the minimal amount of RAM,
+16 GB is recommended.
 
 1. Create a `swift-source` directory for the toolchain build in your working directory and navigate to it:
 
