@@ -110,7 +110,7 @@ Where not stated otherwise, Hleeb is available under the Apache 2.0 license.
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the [LICENSE](https://github.com/swiftwasm/Tokamak/blob/main/LICENSE) file for
+See the [LICENSE](https://github.com/MaxDesiatov/Hleeb/blob/main/LICENSE) file for
 more info.
 
 This repository also incorporates code available under BSD-3 and MIT licenses, which is specified in headers of
