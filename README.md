@@ -47,7 +47,7 @@ git checkout maxd/baremetal
 3. Build the toolchain (this may take up to an hour on MacBook Air M1 or more an older hardware):
 
 ```
-./utils/webassembly/ci.sh
+./utils/webassembly/ci.sh && cd ../..
 ```
 
 ### Building Hleeb
