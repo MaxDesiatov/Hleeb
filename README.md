@@ -89,7 +89,8 @@ Hello, kernel World!
 ```
 
 Number 42 is computed with Swift code as a sum of numbers 40 and 2, called from the C code. Eventually we'd like
-to rewrite remaining C bits that control UART in Swift, as soon as pointer types are fully working in uSwift.
+to rewrite remaining C code that controls [UART](https://en.wikipedia.org/wiki/UART) in Swift, as soon as pointer
+types are fully working in uSwift.
 
 For now we're leaving testing procedure on real RPi hardware as an exercise for the reader. See [this 
 tutorial](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials#-usb-serial-output) for more details on
