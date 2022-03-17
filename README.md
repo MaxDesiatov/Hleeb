@@ -17,7 +17,7 @@ Hleeb relies on [uSwift](https://github.com/compnerd/uswift) as a minimalistic r
 library. Additionally, [a patch enabling bare metal targets](https://github.com/swiftwasm/swift/pull/4374) is
 required for the Swift toolchain to compile Hleeb.
 
-On macOS the requirements can be installed with [Homebrew](https://brew.sh) by executing `brew bundle` in the root
+On macOS build requirements can be installed with [Homebrew](https://brew.sh) by executing `brew bundle` in the root
 directory of a clone of this repository.
 
 ## How to build
