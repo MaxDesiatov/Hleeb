@@ -102,7 +102,7 @@ USB serial output, which is currently the only way to get output from Hleeb when
 - [Fork of apple/swift with modifications to the stdlib to use in a bare metal kernel](https://github.com/spevans/swift-kstdlib)
 - [OSDev.org Wiki](https://wiki.osdev.org/Main_Page)
 - [Learn to write an embedded OS in Rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-- [earning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+- [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 
 ## License
 
